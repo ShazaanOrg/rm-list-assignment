@@ -1,0 +1,15 @@
+{
+  "packages": {
+    ".": {
+      "package-name": "otbu-frontend",
+      "component": "otbu-frontend",
+      "changelog-path": "CHANGELOG.md",
+      "release-type": "node",
+      "bump-minor-pre-major": false,
+      "bump-patch-for-minor-pre-major": false,
+      "draft": false,
+      "prerelease": false
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
