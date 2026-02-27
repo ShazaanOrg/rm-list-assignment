@@ -7,7 +7,6 @@
       "bump-patch-for-minor-pre-major": false,
       "draft": false,
       "prerelease": false,
-      "skip-github-release": true,
       "pull-request-title-pattern": "chore(release-please): ${version}"
     }
   },
