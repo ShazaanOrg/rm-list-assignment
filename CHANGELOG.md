@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/ShazaanOrg/rm-list-assignment/compare/v1.1.0...v1.1.1) (2026-02-27)
+
+
+### Bug Fixes
+
+* Remove skip-github-release configuration ([b878e95](https://github.com/ShazaanOrg/rm-list-assignment/commit/b878e95db775556e66d360ac4b01a270eae62b3b))
+
 ## [1.1.0](https://github.com/ShazaanOrg/rm-list-assignment/compare/v1.0.0...v1.1.0) (2026-02-27)
 
 
