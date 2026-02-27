@@ -9,6 +9,7 @@
       "always-update": true,
       "draft": true,
       "force-tag-creation": true,
+      "include-component-in-tag": false,
       "pull-request-title-pattern": "chore(release-please): ${version}",
       "pull-request-header": "Release PR created "
     }
