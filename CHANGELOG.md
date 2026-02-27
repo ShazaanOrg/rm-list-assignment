@@ -1,5 +1,20 @@
 # Changelog
 
+## [1.2.0](https://github.com/ShazaanOrg/rm-list-assignment/compare/rm-list-assignment-v1.1.2...rm-list-assignment-v1.2.0) (2026-02-27)
+
+
+### Features
+
+* Modify release-please config for PR title and header ([a72d69d](https://github.com/ShazaanOrg/rm-list-assignment/commit/a72d69da3697f536b993bad3ff5aee02fcb1ca94))
+* Remove extra newline in release-please config ([fbb756a](https://github.com/ShazaanOrg/rm-list-assignment/commit/fbb756a54193aa2ddfe2633f808b9b581cdf28ed))
+
+
+### Bug Fixes
+
+* Update pull request header format in config ([7c469d7](https://github.com/ShazaanOrg/rm-list-assignment/commit/7c469d7282ed8af941dc5a59a4ef6a42194cda3c))
+* Update pull request title pattern in config ([4f811db](https://github.com/ShazaanOrg/rm-list-assignment/commit/4f811dba99077adcb0246e91e4445aea68b42218))
+* Update pull request title pattern in config ([0a290e4](https://github.com/ShazaanOrg/rm-list-assignment/commit/0a290e46346da9f35e2b83048d54ae6c32f441fc))
+
 ## [1.1.2](https://github.com/ShazaanOrg/rm-list-assignment/compare/v1.1.1...v1.1.2) (2026-02-27)
 
 
