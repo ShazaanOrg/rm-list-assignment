@@ -9,7 +9,7 @@
       "draft": true,
       "force-tag-creation": true,
       "pull-request-title-pattern": "chore(release-please): ${scope} ${version}",
-      "pull-request-header": "Release PR created"
+      "pull-request-header": "Release PR created for v${version}"
     }
   },
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
