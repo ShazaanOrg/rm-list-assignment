@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.2](https://github.com/ShazaanOrg/rm-list-assignment/compare/v1.1.1...v1.1.2) (2026-02-27)
+
+
+### Bug Fixes
+
+* Add pull request header to release config ([f3b3a58](https://github.com/ShazaanOrg/rm-list-assignment/commit/f3b3a58587e6d1f7a9fad675eba26cc85974ad6d))
+* Set draft to true and force tag creation ([0861350](https://github.com/ShazaanOrg/rm-list-assignment/commit/08613507cd1495ba3069aa72191e6f3effc4e442))
+
 ## [1.1.1](https://github.com/ShazaanOrg/rm-list-assignment/compare/v1.1.0...v1.1.1) (2026-02-27)
 
 
