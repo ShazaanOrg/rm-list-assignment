@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.2.1](https://github.com/ShazaanOrg/rm-list-assignment/compare/rm-list-assignment-v1.2.0...rm-list-assignment-v1.2.1) (2026-02-27)
+
+
+### Bug Fixes
+
+* add space ([7f61bab](https://github.com/ShazaanOrg/rm-list-assignment/commit/7f61bab0a88647e271380b6b9a1bcbb5bfbc72b9))
+* typo ([e0dbf6b](https://github.com/ShazaanOrg/rm-list-assignment/commit/e0dbf6bae2e8aff12a204e1d6c20539000b024bd))
+* typo for header ([54346c8](https://github.com/ShazaanOrg/rm-list-assignment/commit/54346c8879e150a973b50320e677a8a53e772783))
+
 ## [1.2.0](https://github.com/ShazaanOrg/rm-list-assignment/compare/rm-list-assignment-v1.1.2...rm-list-assignment-v1.2.0) (2026-02-27)
 
 
