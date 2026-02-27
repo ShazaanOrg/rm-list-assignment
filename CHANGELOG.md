@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/ShazaanOrg/rm-list-assignment/compare/v1.0.0...v1.1.0) (2026-02-27)
+
+
+### Features
+
+* Add skip-github-release and pull-request-title-pattern ([612e1d0](https://github.com/ShazaanOrg/rm-list-assignment/commit/612e1d08394575f125131d1ec508f9922df9144e))
+
 ## 1.0.0 (2026-02-27)
 
 
