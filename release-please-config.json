@@ -5,8 +5,9 @@
       "release-type": "node",
       "bump-minor-pre-major": false,
       "bump-patch-for-minor-pre-major": false,
-      "draft": false,
       "prerelease": false,
+      "draft": true,
+      "force-tag-creation": true,
       "pull-request-title-pattern": "chore(release-please): ${version}"
     }
   },
