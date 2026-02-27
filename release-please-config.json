@@ -8,6 +8,7 @@
       "prerelease": false,
       "draft": true,
       "force-tag-creation": true,
+      "pull-request-title-pattern": "chore(release-please): ${scope} ${version}",
       "pull-request-header": "Release PR created"
     }
   },
